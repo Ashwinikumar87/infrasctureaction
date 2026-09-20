@@ -1,0 +1,6 @@
+name:  My first worksflow
+on:
+  push:
+    branches: -main
+  workflow_dispatch:
+     
